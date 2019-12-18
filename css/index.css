@@ -228,3 +228,37 @@ footer {
     }
     
 }
+@media (max-width: 500px) {
+    
+    .navlinks {
+        flex-direction: column;
+        align-content: center;
+        padding: 2% 0;
+    }
+    .navlinks a {
+        width: 100%;
+        padding: 2% 0;
+        border-top: 1px solid rosybrown;
+        text-align: center;
+    }
+    .middle-img {
+        padding-top: 6%;
+    }
+    .top {
+        flex-direction: column;
+        padding: 0 0 2% 0;
+        margin: 0;
+    }
+    .righttop{
+        padding: 0;
+        margin: 0;
+    }
+    .bottom {
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    h3 {
+        padding-top: 10%;
+    }
+   
+}
