@@ -269,5 +269,21 @@ footer {
     h3 {
         padding-top: 10%;
     }
+    .services-header-img {
+        padding-bottom: 10%;
+    }
+    .service-info {
+        flex-direction: column;
+        
+    }
+    .service-type {
+        width: 98%;
+    }
+   .service-facts {
+       flex-direction: column;
+   }
+   .service-facts ul {
+       padding-bottom: 5%;
+   }
    
 }
