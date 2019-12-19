@@ -232,9 +232,7 @@ footer {
         text-align: center;
         font-size: 2em;
     }
-    .services-info-image {
-        
-    }
+    
 }
 /* mobile css */
 @media (max-width: 500px) {
@@ -249,6 +247,10 @@ footer {
         padding: 2% 0;
         border-top: 1px solid rosybrown;
         text-align: center;
+    }
+    .contact-nav-link {
+        border-bottom: 1px solid rosybrown;
+
     }
     .middle-img {
         padding-top: 6%;
